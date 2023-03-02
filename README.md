@@ -1,56 +1,29 @@
 ## About This Repository 
-Best Smart Artificial intelligence Chat bot For Telegram Groups 
-Click Below Picture To Open VChat Bot Owner Id...
+ʙᴇsᴛ sᴍᴀʀᴛ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟɪɢᴇɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ ɢᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs 
+ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ᴘɪᴛᴄʜᴇʀ ᴛᴏ ᴏᴘʀɴ ᴅᴀʀᴋᴅᴇᴠɪʟᴄʜᴀᴛ ʙᴏᴛ ᴏᴡɴᴇʀ ɪᴅ...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="https://t.me/VAMSIREDDY_901"><img src="https://te.legra.ph/file/0cda7a55708142941cef5.jpg"></a></p>
 
 
 
-### Deploy To Heroku
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BikashhalderNew/BikashChatBot)
-
-
-## Deploy
-🌷 You can Deploy Easily Fork repo and Give Start 🌷
-
-## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
- At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
-
-## 🥀 Kaali Linux Tutorial
-
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
-
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
-
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
-
-## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
-
-## Telegram 🏪
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
-
-## YouTube 📺
-
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PAVAN626/DarkDevilXChatBot)
 
 
-#### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
-
-### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+## ᴅᴇᴘʟᴏʏ
+❤︎ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴇᴀꜱɪʟʏ ꜰᴏʀᴋ ʀᴇᴘᴏ ᴀɴᴅ ɢɪᴠᴇ ꜱᴛᴀʀᴛ ❤︎
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+## ⚒️ ᴄʀᴇᴅɪᴛ
+[ᴠᴀᴍsɪ ʀᴇᴅᴅʏ](https://t.me/VAMSIREDDY_901)
 
-## 💕 Special Thanks
+## ᴛᴇʟᴇɢʀᴀᴍ 🏪
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Our_Hub)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Our_Updates_channel)
 
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ  [ᴠᴀᴍsɪ ʀᴇᴅᴅʏ](https://t.me/VAMSIREDDY_901) & [CʜɪɴɴᴜxD](https://t.me/ChinnuXd)
