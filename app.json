@@ -14,7 +14,7 @@
         },
         "SUPPORT_GROUP": {
             "description": "Input support group username here ( Without @)",
-            "required": true
+            "required": "https://t.me/Our_Hub"
         },
         "UPDATES_CHANNEL": {
             "description": "Input updates channel username here ( Without @) ",
